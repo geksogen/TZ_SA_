@@ -10,10 +10,3 @@
 <p align="center">
     <img width="500" align="center" src="https://raw.githubusercontent.com/geksogen/TZ_SA_/master/BRD/diagrams/BPM_client.svg" alt="demo"/>
 </p>
-
-## Взаимодействие пользователя с системой (физическое лицо)
-
-На схеме представлены следующие бизнес-процессы:
-
-- Регистрация пользователя
-- Поиск обьявления
