@@ -5,4 +5,3 @@
 * BRD (набор общих бизнес требований, бизнес целей, характеристик. Реализуемый BPMN процесс)
 * SRS (набор FRQ, NFRQ, class diagram, use-case diagram, sequence diagram, C4-model, data-model, API)
 * Testing (тестовый сценарий "Регистрация клиента")
-* lalalalal
